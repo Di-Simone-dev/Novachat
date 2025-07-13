@@ -1,0 +1,12 @@
+SoundMax Bluetooth Speaker Setup
+
+Bluetooth Pairing:
+1. Press the Bluetooth icon until the LED begins flashing.
+2. Open your phone’s Bluetooth settings.
+3. Select “SoundMax” from the list of available devices.
+
+Charging:
+Use the included USB-C cable. A red light indicates charging; it turns green when fully charged.
+
+Battery Life:
+Up to 10 hours on a full charge with medium volume.

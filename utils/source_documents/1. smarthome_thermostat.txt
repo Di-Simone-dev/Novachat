@@ -1,0 +1,10 @@
+SmartHome Thermostat User Manual
+
+Reset Instructions:
+To reset your SmartHome thermostat, press and hold the reset button for 10 seconds until the display flashes. This will restore the device to its default factory settings.
+
+Temperature Settings:
+You can set the desired temperature using the up and down arrows on the main screen. The thermostat supports a range from 10°C to 30°C.
+
+Wi-Fi Setup:
+Go to the Settings menu, select Wi-Fi, and choose your network. Enter your password when prompted.

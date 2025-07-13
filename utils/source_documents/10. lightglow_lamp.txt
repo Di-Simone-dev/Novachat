@@ -1,0 +1,10 @@
+LightGlow Smart Lamp Setup
+
+Timer Settings:
+Press the clock icon to activate the timer. Use the + and - buttons to set the desired duration (up to 12 hours).
+
+Brightness Levels:
+Adjust brightness by swiping up or down on the touch-sensitive panel.
+
+Voice Control:
+Compatible with Alexa and Google Assistant. Say "Turn on LightGlow" to activate.
